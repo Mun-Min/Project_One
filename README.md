@@ -27,7 +27,7 @@ https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_housing_p
 ## Slides 3 and 4: All homes for sale on the market
 ​<https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/all_home_sales_2019_2022..png>
 
-- Note, the peak of inventory was in Sept 2019, falling shortly to a depth in June 2020, 3 months after the pandemic was declared by WHO.  The inventory of houses on the market are approximately half, compared to 2/19.
+- Note, the peak of inventory was in Sept 2019, falling shortly to a low in June 2020, which was 3 months after the pandemic was declared by WHO.  The inventory of houses on the market currently is approximately half of all houses available in 2019.
 
 
 - This graphic brings up a few questions:
