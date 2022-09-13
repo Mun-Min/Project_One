@@ -36,7 +36,7 @@ Being interested in the housing market from a personal perspective, our team dec
 2.  Did the Pandemic affect housing prices?
 3.  Did the Pandemic usher in institutional investors thereby displacing homes for rent by individual homeowners?
 ​
-## Slide 1:  Phoenix market
+## Slide 1:  Phoenix market [TO DO: EDIT]
 ​
 Visual:  most recent 300 properties sold in the Phoenix area:
 https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_housing_property__type_listings_map..png
@@ -49,7 +49,8 @@ https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_housing_p
 ​
 https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_housing_property_listings_heat_map..png
 
-- Legend for the heat maps - the larger the circle, the more square footage for the property.  The darker the circle, the more expensive the property.
+- Heatmaps convey the state of the current housing & rental market. 
+- Legend for the heat maps - the larger the circle, the more square footage for the property. The darker the circle, the more expensive the property.
 ​
 ​
 ## Slides 3 and 4: All homes for sale on the market
@@ -60,11 +61,11 @@ https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_housing_p
 
 - This graphic brings up a few questions:
 
-    - is this due to slower housing starts?
+    - Is this due to slower housing starts?
 
-    - more people working from home?
+    - More people working from home?
 
-    - the home inventory is shrinking, but yet 200 people a day are still moving to Phoenix area.
+    - The home inventory is shrinking, but yet 200 people a day are still moving to Phoenix area.
 
 ## Slide 5: Price per square foot for solds in the market 
 https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/price_per_square_foot_by_year..png
