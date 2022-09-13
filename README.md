@@ -1,6 +1,6 @@
 # Impacts of the Pandemic on Phoenix Housing
 
-​![Decorative image.](Resources\Phoenix_City_IMG.jpg)
+<img align="middle" width="900" height="500" src="https://api.time.com/wp-content/uploads/2022/04/GettyImages-1292752655.jpg?quality=85&w=1200&h=628&crop=1">
 
 ## Running the Main Analysis Notebook 
 You must download the following packages in order to run the Main Analysis Notebook: 
