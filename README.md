@@ -1,6 +1,34 @@
-# Project_One
 # Impacts of the Pandemic on Phoenix Housing
-​
+
+​![Decorative image.](Resources\Phoenix_City_IMG.jpg)
+
+## Running the Main Analysis Notebook 
+You must download the following packages in order to run the Main Analysis Notebook: 
+
+<span style="color:white;font-weight:100;font-size:15px">
+    <b>Altair Data Visualization Package:</b>
+</span>
+
+    pip install altair 
+    conda install -c conda-forge altair
+    import altair as alt 
+
+<span style="color:white;font-weight:100;font-size:15px">
+    <b>Holo Views (hvPlot) Visualization Package:</b>
+</span>
+
+    pip install hvplot
+    conda install -c pyviz hvplot
+    import hvplot.pandas 
+
+<span style="color:white;font-weight:100;font-size:15px">
+    <b>RISE Jupyter Slideshow Extension:</b>
+</span>
+
+    (To view the main analysis notebook in slideshow format, download the following)
+    pip install RISE
+    conda install -c conda-forge rise
+
 ## Summary
 Being interested in the housing market from a personal perspective, our team decided to seek out answers to a few questions about the Phoenix housing market:
 ​
