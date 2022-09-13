@@ -48,6 +48,7 @@ https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_housing_p
 ## Visual 2 and 3:  Heat map of Phoenix housing and rental market 
 ​
 https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_housing_property_listings_heat_map..png
+https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_rental_property_listings_heat_map..png
 
 - Heatmaps convey the state of the current housing & rental market. 
 - Legend for the heat maps - the larger the circle, the more square footage for the property. The darker the circle, the more expensive the property.
