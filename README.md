@@ -36,7 +36,7 @@ Being interested in the housing market from a personal perspective, our team dec
 2.  Did the Pandemic affect housing prices?
 3.  Did the Pandemic usher in institutional investors thereby displacing homes for rent by individual homeowners?
 ​
-## Visual 1:  Phoenix market [TO DO: EDIT]
+## Visual 1:  Phoenix market
 ​
 Visual:  most recent 600 properties sold in the Phoenix and Glendale areas:
 https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_housing_property__type_listings_map..png
