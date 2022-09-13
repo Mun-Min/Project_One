@@ -38,11 +38,11 @@ Being interested in the housing market from a personal perspective, our team dec
 ​
 ## Visual 1:  Phoenix market [TO DO: EDIT]
 ​
-Visual:  most recent 600 properties sold in the Phoenix and Glendale areas:
+Visual:  most recent 300 properties sold in the Phoenix area:
 https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/phoenix_housing_property__type_listings_map..png
 ​
 - Observations:  As is to be expected, single family homes are the predominant residential properties being listed and sold.
-- The average price of single residential homes is $440,000 based on the most recent sampling.
+- The average price of single residential homes is $_________ based on this sampling.
 - Data extraction & cleaning:  The data underlying this graphic was the one of the more difficult data sets that we acquired and cleaned.  It required creating a dataframe via iteration from a data-intensive JSON file.
 ​
 ## Visual 2 and 3:  Heat map of Phoenix housing and rental market 
