@@ -57,3 +57,4 @@ https://github.com/Mun-Min/Project_One/blob/main/Visuals%20PNG/price_per_square_
 - During the times of the pandemic and afterwards, the ratio of investor purchases seemed to be in line and parellel with owner-occupant purchases month in and month out.
 
 ## Conclusion
+- Immediately following the pandemic declaration, housing prices rose sharply while looking at price per sq ft, the population continues to increase, yet housing inventory keeps declining, and finally, data indicates that investors are not coming in and buying all the inventory despite what we hear in the news, owner occupant and investor purchases are at the same ratio, before and after the pandemic.
